@@ -1,0 +1,49 @@
+body{
+    background-image: url(https://cdn.shopify.com/s/files/1/0633/7039/5889/files/blackcat_desktopwallpaper_ipad.jpg?v=1647550712);
+    font-family: fantasy;
+
+}
+h1 {
+    color: #f5ebea;
+    text-shadow: #7d7c7c 2px 2px;
+    text-align: center;
+}
+h4{color: #0b0b0b;
+
+    text-align: center;
+
+    
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    border: groove;
+    border-radius: 9px;
+
+}
+p {
+    text-align: center;
+    list-style-type: none;
+    
+}
+h2{
+    border-bottom: 3px dotted;
+}
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+table {
+    border-collapse: collapse;
+    width: 75%;
+    
+}
+th, td {
+    text-align: left;
+    border-bottom: 1px, #f5e2e1;
+    color: #0e0d0e;
+}
+tr:hover {
+    background-color: #f4efef
+}
